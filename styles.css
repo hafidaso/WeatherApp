@@ -1,0 +1,24 @@
+/* Default style */
+.root {
+    -fx-background-color: linear-gradient(to bottom, #000033, #000066);
+}
+
+/* Morning (6 AM - 12 PM) */
+.morning {
+    -fx-background-color: linear-gradient(to bottom, #87CEEB, #B0E0E6);
+}
+
+/* Afternoon (12 PM - 6 PM) */
+.afternoon {
+    -fx-background-color: linear-gradient(to bottom, #FFD700, #FFA500);
+}
+
+/* Evening (6 PM - 9 PM) */
+.evening {
+    -fx-background-color: linear-gradient(to bottom, #FF4500, #8B0000);
+}
+
+/* Night (9 PM - 6 AM) */
+.night {
+    -fx-background-color: linear-gradient(to bottom, #000033, #000066);
+}
